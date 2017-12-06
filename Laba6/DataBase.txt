@@ -1,0 +1,3 @@
+Login: tropa                          Salt: aslaesyotfqedrs                VPassword: 2355 NGK: 2459, 17, 3
+Login: qwerty                         Salt: rgdpbvuiggudjpgert             VPassword: 405 NGK: 4919, 3, 3
+Login: dok                            Salt: nfhopncmsjopkqliejsjdwo        VPassword: 1348 NGK: 7247, 7, 3
